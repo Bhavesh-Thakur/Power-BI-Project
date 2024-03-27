@@ -37,5 +37,5 @@ This report is designed to visualize and analyze various aspects of call centre 
 - Scheduled Data Refresh: Ensure that the report reflects the most up-to-date information by scheduling regular data refreshes.
 
 ## Screenshots
-![ScreenShot of call center data analysis]("C:\Users\Bhave\OneDrive\Pictures\Screenshots\Screenshot 2024-03-27 093050.png")
+! [ScreenShot of call center data analysis]("C:\Users\Bhave\OneDrive\Pictures\Screenshots\Screenshot 2024-03-27 093050.png")
 
